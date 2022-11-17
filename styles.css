@@ -1,0 +1,35 @@
+body {
+background-color:#9ed2c6;  
+}
+hr {
+background-color:#9ed2c6;
+border-style: none none;
+border-top: dotted;
+border-color: grey;
+border-width: 5px;
+width: 7%;          
+}
+h1{
+color: #54bab9;
+font-family:sans-serif;
+}
+h3{
+color:#06283D;
+font-family:Verdana;
+}
+label{
+    color:#06283D;
+    font-family:Verdana;
+}
+p{
+    color:#06283D;
+    font-family:Verdana;
+}
+ul{
+    color:#06283D;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+table{
+    color:#06283D;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
